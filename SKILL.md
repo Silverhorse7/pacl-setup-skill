@@ -1,6 +1,6 @@
 ---
 name: pacl-setup
-version: 2.0.0
+version: 3.0.0
 description: |
   PACL Roles & Permissions Setup. Crawls a service codebase, finds all
   partner-facing endpoints, infers or validates a permissions model, asks
